@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="main" style={{maxWidth:620,paddingTop:80,textAlign:'center'}}><div style={{fontSize:70}}>🌱</div><h1>아직 만들어지는 중이에요</h1><p className="meta">옆집공방의 다음 기능을 준비하고 있습니다.</p><a className="photo-cta" style={{display:'block',marginTop:24}} href="/">홈으로 돌아가기</a></main>}
